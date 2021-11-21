@@ -1,0 +1,5 @@
+{
+  "VUE_APP_IMAGE_API": "http://demo.fantasysz.com:17994",
+  "VUE_APP_WS": "ws://192.168.0.73:31227/Message",
+  "VUE_APP_ParseLink_API": "http://192.168.0.189:6118"
+}
