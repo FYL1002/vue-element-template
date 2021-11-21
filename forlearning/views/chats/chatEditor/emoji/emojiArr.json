@@ -1,0 +1,1698 @@
+{
+  "normal": [
+    {
+      "title": "微笑",
+      "text": ":normal_face_0:",
+      "class": "normalface0",
+      "type": "normal"
+    },
+    {
+      "title": "撇嘴",
+      "text": ":normal_face_1:",
+      "class": "normalface1",
+      "type": "normal"
+    },
+    {
+      "title": "色",
+      "text": ":normal_face_2:",
+      "class": "normalface2",
+      "type": "normal"
+    },
+    {
+      "title": "发呆",
+      "text": ":normal_face_3:",
+      "class": "normalface3",
+      "type": "normal"
+    },
+    {
+      "title": "得意",
+      "text": ":normal_face_4:",
+      "class": "normalface4",
+      "type": "normal"
+    },
+    {
+      "title": "流泪",
+      "text": ":normal_face_5:",
+      "class": "normalface5",
+      "type": "normal"
+    },
+    {
+      "title": "害羞",
+      "text": ":normal_face_6:",
+      "class": "normalface6",
+      "type": "normal"
+    },
+    {
+      "title": "闭嘴",
+      "text": ":normal_face_7:",
+      "class": "normalface7",
+      "type": "normal"
+    },
+    {
+      "title": "睡",
+      "text": ":normal_face_8:",
+      "class": "normalface8",
+      "type": "normal"
+    },
+    {
+      "title": "大哭",
+      "text": ":normal_face_9:",
+      "class": "normalface9",
+      "type": "normal"
+    },
+    {
+      "title": "尴尬",
+      "text": ":normal_face_10:",
+      "class": "normalface10",
+      "type": "normal"
+    },
+    {
+      "title": "发怒",
+      "text": ":normal_face_11:",
+      "class": "normalface11",
+      "type": "normal"
+    },
+    {
+      "title": "调皮",
+      "text": ":normal_face_12:",
+      "class": "normalface12",
+      "type": "normal"
+    },
+    {
+      "title": "呲牙",
+      "text": ":normal_face_13:",
+      "class": "normalface13",
+      "type": "normal"
+    },
+    {
+      "title": "惊讶",
+      "text": ":normal_face_14:",
+      "class": "normalface14",
+      "type": "normal"
+    },
+    {
+      "title": "难过",
+      "text": ":normal_face_15:",
+      "class": "normalface15",
+      "type": "normal"
+    },
+    {
+      "title": "酷",
+      "text": ":normal_face_16:",
+      "class": "normalface16",
+      "type": "normal"
+    },
+    {
+      "title": "冷汗",
+      "text": ":normal_face_17:",
+      "class": "normalface17",
+      "type": "normal"
+    },
+    {
+      "title": "抓狂",
+      "text": ":normal_face_18:",
+      "class": "normalface18",
+      "type": "normal"
+    },
+    {
+      "title": "吐",
+      "text": ":normal_face_19:",
+      "class": "normalface19",
+      "type": "normal"
+    },
+    {
+      "title": "偷笑",
+      "text": ":normal_face_20:",
+      "class": "normalface20",
+      "type": "normal"
+    },
+    {
+      "title": "愉快",
+      "text": ":normal_face_21:",
+      "class": "normalface21",
+      "type": "normal"
+    },
+    {
+      "title": "白眼",
+      "text": ":normal_face_22:",
+      "class": "normalface22",
+      "type": "normal"
+    },
+    {
+      "title": "傲慢",
+      "text": ":normal_face_23:",
+      "class": "normalface23",
+      "type": "normal"
+    },
+    {
+      "title": "饥饿",
+      "text": ":normal_face_24:",
+      "class": "normalface24",
+      "type": "normal"
+    },
+    {
+      "title": "困",
+      "text": ":normal_face_25:",
+      "class": "normalface25",
+      "type": "normal"
+    },
+    {
+      "title": "惊恐",
+      "text": ":normal_face_26:",
+      "class": "normalface26",
+      "type": "normal"
+    },
+    {
+      "title": "流汗",
+      "text": ":normal_face_27:",
+      "class": "normalface27",
+      "type": "normal"
+    },
+    {
+      "title": "憨笑",
+      "text": ":normal_face_28:",
+      "class": "normalface28",
+      "type": "normal"
+    },
+    {
+      "title": "悠闲",
+      "text": ":normal_face_29:",
+      "class": "normalface29",
+      "type": "normal"
+    },
+    {
+      "title": "奋斗",
+      "text": ":normal_face_30:",
+      "class": "normalface30",
+      "type": "normal"
+    },
+    {
+      "title": "咒骂",
+      "text": ":normal_face_31:",
+      "class": "normalface31",
+      "type": "normal"
+    },
+    {
+      "title": "疑问",
+      "text": ":normal_face_32:",
+      "class": "normalface32",
+      "type": "normal"
+    },
+    {
+      "title": "嘘",
+      "text": ":normal_face_33:",
+      "class": "normalface33",
+      "type": "normal"
+    },
+    {
+      "title": "晕",
+      "text": ":normal_face_34:",
+      "class": "normalface34",
+      "type": "normal"
+    },
+    {
+      "title": "疯了",
+      "text": ":normal_face_35:",
+      "class": "normalface35",
+      "type": "normal"
+    },
+    {
+      "title": "衰",
+      "text": ":normal_face_36:",
+      "class": "normalface36",
+      "type": "normal"
+    },
+    {
+      "title": "骷髅",
+      "text": ":normal_face_37:",
+      "class": "normalface37",
+      "type": "normal"
+    },
+    {
+      "title": "敲打",
+      "text": ":normal_face_38:",
+      "class": "normalface38",
+      "type": "normal"
+    },
+    {
+      "title": "再见",
+      "text": ":normal_face_39:",
+      "class": "normalface39",
+      "type": "normal"
+    },
+    {
+      "title": "擦汗",
+      "text": ":normal_face_40:",
+      "class": "normalface40",
+      "type": "normal"
+    },
+    {
+      "title": "抠鼻",
+      "text": ":normal_face_41:",
+      "class": "normalface41",
+      "type": "normal"
+    },
+    {
+      "title": "鼓掌",
+      "text": ":normal_face_42:",
+      "class": "normalface42",
+      "type": "normal"
+    },
+    {
+      "title": "糗大了",
+      "text": ":normal_face_43:",
+      "class": "normalface43",
+      "type": "normal"
+    },
+    {
+      "title": "坏笑",
+      "text": ":normal_face_44:",
+      "class": "normalface44",
+      "type": "normal"
+    },
+    {
+      "title": "左哼哼",
+      "text": ":normal_face_45:",
+      "class": "normalface45",
+      "type": "normal"
+    },
+    {
+      "title": "右哼哼",
+      "text": ":normal_face_46:",
+      "class": "normalface46",
+      "type": "normal"
+    },
+    {
+      "title": "哈欠",
+      "text": ":normal_face_47:",
+      "class": "normalface47",
+      "type": "normal"
+    },
+    {
+      "title": "鄙视",
+      "text": ":normal_face_48:",
+      "class": "normalface48",
+      "type": "normal"
+    },
+    {
+      "title": "委屈",
+      "text": ":normal_face_49:",
+      "class": "normalface49",
+      "type": "normal"
+    },
+    {
+      "title": "快哭了",
+      "text": ":normal_face_50:",
+      "class": "normalface50",
+      "type": "normal"
+    },
+    {
+      "title": "阴险",
+      "text": ":normal_face_51:",
+      "class": "normalface51",
+      "type": "normal"
+    },
+    {
+      "title": "亲亲",
+      "text": ":normal_face_52:",
+      "class": "normalface52",
+      "type": "normal"
+    },
+    {
+      "title": "吓",
+      "text": ":normal_face_53:",
+      "class": "normalface53",
+      "type": "normal"
+    },
+    {
+      "title": "可怜",
+      "text": ":normal_face_54:",
+      "class": "normalface54",
+      "type": "normal"
+    },
+    {
+      "title": "菜刀",
+      "text": ":normal_face_55:",
+      "class": "normalface55",
+      "type": "normal"
+    },
+    {
+      "title": "西瓜",
+      "text": ":normal_face_56:",
+      "class": "normalface56",
+      "type": "normal"
+    },
+    {
+      "title": "啤酒",
+      "text": ":normal_face_57:",
+      "class": "normalface57",
+      "type": "normal"
+    },
+    {
+      "title": "篮球",
+      "text": ":normal_face_58:",
+      "class": "normalface58",
+      "type": "normal"
+    },
+    {
+      "title": "乒乓",
+      "text": ":normal_face_59:",
+      "class": "normalface59",
+      "type": "normal"
+    },
+    {
+      "title": "咖啡",
+      "text": ":normal_face_60:",
+      "class": "normalface60",
+      "type": "normal"
+    },
+    {
+      "title": "饭",
+      "text": ":normal_face_61:",
+      "class": "normalface61",
+      "type": "normal"
+    },
+    {
+      "title": "猪头",
+      "text": ":normal_face_62:",
+      "class": "normalface62",
+      "type": "normal"
+    },
+    {
+      "title": "玫瑰",
+      "text": ":normal_face_63:",
+      "class": "normalface63",
+      "type": "normal"
+    },
+    {
+      "title": "凋谢",
+      "text": ":normal_face_64:",
+      "class": "normalface64",
+      "type": "normal"
+    },
+    {
+      "title": "嘴唇",
+      "text": ":normal_face_65:",
+      "class": "normalface65",
+      "type": "normal"
+    },
+    {
+      "title": "爱心",
+      "text": ":normal_face_66:",
+      "class": "normalface66",
+      "type": "normal"
+    },
+    {
+      "title": "心碎",
+      "text": ":normal_face_67:",
+      "class": "normalface67",
+      "type": "normal"
+    },
+    {
+      "title": "蛋糕",
+      "text": ":normal_face_68:",
+      "class": "normalface68",
+      "type": "normal"
+    },
+    {
+      "title": "闪电",
+      "text": ":normal_face_69:",
+      "class": "normalface69",
+      "type": "normal"
+    },
+    {
+      "title": "炸弹",
+      "text": ":normal_face_70:",
+      "class": "normalface70",
+      "type": "normal"
+    },
+    {
+      "title": "刀",
+      "text": ":normal_face_71:",
+      "class": "normalface71",
+      "type": "normal"
+    },
+    {
+      "title": "足球",
+      "text": ":normal_face_72:",
+      "class": "normalface72",
+      "type": "normal"
+    },
+    {
+      "title": "瓢虫",
+      "text": ":normal_face_73:",
+      "class": "normalface73",
+      "type": "normal"
+    },
+    {
+      "title": "便便",
+      "text": ":normal_face_74:",
+      "class": "normalface74",
+      "type": "normal"
+    },
+    {
+      "title": "月亮",
+      "text": ":normal_face_75:",
+      "class": "normalface75",
+      "type": "normal"
+    },
+    {
+      "title": "太阳",
+      "text": ":normal_face_76:",
+      "class": "normalface76",
+      "type": "normal"
+    },
+    {
+      "title": "礼物",
+      "text": ":normal_face_77:",
+      "class": "normalface77",
+      "type": "normal"
+    },
+    {
+      "title": "拥抱",
+      "text": ":normal_face_78:",
+      "class": "normalface78",
+      "type": "normal"
+    },
+    {
+      "title": "强",
+      "text": ":normal_face_79:",
+      "class": "normalface79",
+      "type": "normal"
+    },
+    {
+      "title": "弱",
+      "text": ":normal_face_80:",
+      "class": "normalface80",
+      "type": "normal"
+    },
+    {
+      "title": "握手",
+      "text": ":normal_face_81:",
+      "class": "normalface81",
+      "type": "normal"
+    },
+    {
+      "title": "胜利",
+      "text": ":normal_face_82:",
+      "class": "normalface82",
+      "type": "normal"
+    },
+    {
+      "title": "抱拳",
+      "text": ":normal_face_83:",
+      "class": "normalface83",
+      "type": "normal"
+    },
+    {
+      "title": "勾引",
+      "text": ":normal_face_84:",
+      "class": "normalface84",
+      "type": "normal"
+    },
+    {
+      "title": "拳头",
+      "text": ":normal_face_85:",
+      "class": "normalface85",
+      "type": "normal"
+    },
+    {
+      "title": "差劲",
+      "text": ":normal_face_86:",
+      "class": "normalface86",
+      "type": "normal"
+    },
+    {
+      "title": "爱你",
+      "text": ":normal_face_87:",
+      "class": "normalface87",
+      "type": "normal"
+    },
+    {
+      "title": "NO",
+      "text": ":normal_face_88:",
+      "class": "normalface88",
+      "type": "normal"
+    },
+    {
+      "title": "OK",
+      "text": ":normal_face_89:",
+      "class": "normalface89",
+      "type": "normal"
+    },
+    {
+      "title": "爱情",
+      "text": ":normal_face_90:",
+      "class": "normalface90",
+      "type": "normal"
+    },
+    {
+      "title": "飞吻",
+      "text": ":normal_face_91:",
+      "class": "normalface91",
+      "type": "normal"
+    },
+    {
+      "title": "跳跳",
+      "text": ":normal_face_92:",
+      "class": "normalface92",
+      "type": "normal"
+    },
+    {
+      "title": "发抖",
+      "text": ":normal_face_93:",
+      "class": "normalface93",
+      "type": "normal"
+    },
+    {
+      "title": "怄火",
+      "text": ":normal_face_94:",
+      "class": "normalface94",
+      "type": "normal"
+    },
+    {
+      "title": "转圈",
+      "text": ":normal_face_95:",
+      "class": "normalface95",
+      "type": "normal"
+    },
+    {
+      "title": "磕头",
+      "text": ":normal_face_96:",
+      "class": "normalface96",
+      "type": "normal"
+    },
+    {
+      "title": "回头",
+      "text": ":normal_face_97:",
+      "class": "normalface97",
+      "type": "normal"
+    },
+    {
+      "title": "跳绳",
+      "text": ":normal_face_98:",
+      "class": "normalface98",
+      "type": "normal"
+    },
+    {
+      "title": "投降",
+      "text": ":normal_face_99:",
+      "class": "normalface99",
+      "type": "normal"
+    },
+    {
+      "title": "激动",
+      "text": ":normal_face_100:",
+      "class": "normalface100",
+      "type": "normal"
+    },
+    {
+      "title": "乱舞",
+      "text": ":normal_face_101:",
+      "class": "normalface101",
+      "type": "normal"
+    },
+    {
+      "title": "献吻",
+      "text": ":normal_face_102:",
+      "class": "normalface102",
+      "type": "normal"
+    },
+    {
+      "title": "左太极",
+      "text": ":normal_face_103:",
+      "class": "normalface103",
+      "type": "normal"
+    },
+    {
+      "title": "右太极",
+      "text": ":normal_face_104:",
+      "class": "normalface104",
+      "type": "normal"
+    }
+  ],
+  "emoji": [
+    {
+      "title": "笑脸",
+      "text": ":emoji_face_0:",
+      "class": "emoji0",
+      "type": "emoji"
+    },
+    {
+      "title": "生病",
+      "text": ":emoji_face_1:",
+      "class": "emoji1",
+      "type": "emoji"
+    },
+    {
+      "title": "破涕为笑",
+      "text": ":emoji_face_2:",
+      "class": "emoji2",
+      "type": "emoji"
+    },
+    {
+      "title": "吐舌",
+      "text": ":emoji_face_3:",
+      "class": "emoji3",
+      "type": "emoji"
+    },
+    {
+      "title": "脸红",
+      "text": ":emoji_face_4:",
+      "class": "emoji4",
+      "type": "emoji"
+    },
+    {
+      "title": "恐惧",
+      "text": ":emoji_face_5:",
+      "class": "emoji5",
+      "type": "emoji"
+    },
+    {
+      "title": "失望",
+      "text": ":emoji_face_6:",
+      "class": "emoji6",
+      "type": "emoji"
+    },
+    {
+      "title": "无语",
+      "text": ":emoji_face_7:",
+      "class": "emoji7",
+      "type": "emoji"
+    },
+    {
+      "title": "嘿哈",
+      "text": ":emoji_face_8:",
+      "class": "emoji8",
+      "type": "emoji"
+    },
+    {
+      "title": "捂脸",
+      "text": ":emoji_face_9:",
+      "class": "emoji9",
+      "type": "emoji"
+    },
+    {
+      "title": "奸笑",
+      "text": ":emoji_face_10:",
+      "class": "emoji10",
+      "type": "emoji"
+    },
+    {
+      "title": "机智",
+      "text": ":emoji_face_11:",
+      "class": "emoji11",
+      "type": "emoji"
+    },
+    {
+      "title": "皱眉",
+      "text": ":emoji_face_12:",
+      "class": "emoji12",
+      "type": "emoji"
+    },
+    {
+      "title": "耶",
+      "text": ":emoji_face_13:",
+      "class": "emoji13",
+      "type": "emoji"
+    },
+    {
+      "title": "鬼魂",
+      "text": ":emoji_face_14:",
+      "class": "emoji14",
+      "type": "emoji"
+    },
+    {
+      "title": "合十",
+      "text": ":emoji_face_15:",
+      "class": "emoji15",
+      "type": "emoji"
+    },
+    {
+      "title": "强壮",
+      "text": ":emoji_face_16:",
+      "class": "emoji16",
+      "type": "emoji"
+    },
+    {
+      "title": "庆祝",
+      "text": ":emoji_face_17:",
+      "class": "emoji17",
+      "type": "emoji"
+    },
+    {
+      "title": "礼物",
+      "text": ":emoji_face_18:",
+      "class": "emoji18",
+      "type": "emoji"
+    },
+    {
+      "title": "红包",
+      "text": ":emoji_face_19:",
+      "class": "emoji19",
+      "type": "emoji"
+    },
+    {
+      "title": "鸡",
+      "text": ":emoji_face_20:",
+      "class": "emoji20",
+      "type": "emoji"
+    },
+    {
+      "title": "开心",
+      "text": ":emoji_face_21:",
+      "class": "emoji21",
+      "type": "emoji"
+    },
+    {
+      "title": "大笑",
+      "text": ":emoji_face_22:",
+      "class": "emoji22",
+      "type": "emoji"
+    },
+    {
+      "title": "热情",
+      "text": ":emoji_face_23:",
+      "class": "emoji23",
+      "type": "emoji"
+    },
+    {
+      "title": "眨眼",
+      "text": ":emoji_face_24:",
+      "class": "emoji24",
+      "type": "emoji"
+    },
+    {
+      "title": "色",
+      "text": ":emoji_face_25:",
+      "class": "emoji25",
+      "type": "emoji"
+    },
+    {
+      "title": "接吻",
+      "text": ":emoji_face_26:",
+      "class": "emoji26",
+      "type": "emoji"
+    },
+    {
+      "title": "亲吻",
+      "text": ":emoji_face_27:",
+      "class": "emoji27",
+      "type": "emoji"
+    },
+    {
+      "title": "露齿笑",
+      "text": ":emoji_face_28:",
+      "class": "emoji28",
+      "type": "emoji"
+    },
+    {
+      "title": "满意",
+      "text": ":emoji_face_29:",
+      "class": "emoji29",
+      "type": "emoji"
+    },
+    {
+      "title": "戏弄",
+      "text": ":emoji_face_30:",
+      "class": "emoji30",
+      "type": "emoji"
+    },
+    {
+      "title": "得意",
+      "text": ":emoji_face_31:",
+      "class": "emoji31",
+      "type": "emoji"
+    },
+    {
+      "title": "汗",
+      "text": ":emoji_face_32:",
+      "class": "emoji32",
+      "type": "emoji"
+    },
+    {
+      "title": "低落",
+      "text": ":emoji_face_33:",
+      "class": "emoji33",
+      "type": "emoji"
+    },
+    {
+      "title": "呸",
+      "text": ":emoji_face_34:",
+      "class": "emoji34",
+      "type": "emoji"
+    },
+    {
+      "title": "焦虑",
+      "text": ":emoji_face_35:",
+      "class": "emoji35",
+      "type": "emoji"
+    },
+    {
+      "title": "担心",
+      "text": ":emoji_face_36:",
+      "class": "emoji36",
+      "type": "emoji"
+    },
+    {
+      "title": "震惊",
+      "text": ":emoji_face_37:",
+      "class": "emoji37",
+      "type": "emoji"
+    },
+    {
+      "title": "悔恨",
+      "text": ":emoji_face_38:",
+      "class": "emoji38",
+      "type": "emoji"
+    },
+    {
+      "title": "眼泪",
+      "text": ":emoji_face_39:",
+      "class": "emoji39",
+      "type": "emoji"
+    },
+    {
+      "title": "哭",
+      "text": ":emoji_face_40:",
+      "class": "emoji40",
+      "type": "emoji"
+    },
+    {
+      "title": "晕",
+      "text": ":emoji_face_41:",
+      "class": "emoji41",
+      "type": "emoji"
+    },
+    {
+      "title": "心烦",
+      "text": ":emoji_face_42:",
+      "class": "emoji42",
+      "type": "emoji"
+    },
+    {
+      "title": "生气",
+      "text": ":emoji_face_43:",
+      "class": "emoji43",
+      "type": "emoji"
+    },
+    {
+      "title": "睡觉",
+      "text": ":emoji_face_44:",
+      "class": "emoji44",
+      "type": "emoji"
+    },
+    {
+      "title": "恶魔",
+      "text": ":emoji_face_45:",
+      "class": "emoji45",
+      "type": "emoji"
+    },
+    {
+      "title": "外星人",
+      "text": ":emoji_face_46:",
+      "class": "emoji46",
+      "type": "emoji"
+    },
+    {
+      "title": "心",
+      "text": ":emoji_face_47:",
+      "class": "emoji47",
+      "type": "emoji"
+    },
+    {
+      "title": "心碎",
+      "text": ":emoji_face_48:",
+      "class": "emoji48",
+      "type": "emoji"
+    },
+    {
+      "title": "丘比特",
+      "text": ":emoji_face_49:",
+      "class": "emoji49",
+      "type": "emoji"
+    },
+    {
+      "title": "闪烁",
+      "text": ":emoji_face_50:",
+      "class": "emoji50",
+      "type": "emoji"
+    },
+    {
+      "title": "星星",
+      "text": ":emoji_face_51:",
+      "class": "emoji51",
+      "type": "emoji"
+    },
+    {
+      "title": "叹号",
+      "text": ":emoji_face_52:",
+      "class": "emoji52",
+      "type": "emoji"
+    },
+    {
+      "title": "问号",
+      "text": ":emoji_face_53:",
+      "class": "emoji53",
+      "type": "emoji"
+    },
+    {
+      "title": "睡着",
+      "text": ":emoji_face_54:",
+      "class": "emoji54",
+      "type": "emoji"
+    },
+    {
+      "title": "水滴",
+      "text": ":emoji_face_55:",
+      "class": "emoji55",
+      "type": "emoji"
+    },
+    {
+      "title": "音乐",
+      "text": ":emoji_face_56:",
+      "class": "emoji56",
+      "type": "emoji"
+    },
+    {
+      "title": "火",
+      "text": ":emoji_face_57:",
+      "class": "emoji57",
+      "type": "emoji"
+    },
+    {
+      "title": "便便",
+      "text": ":emoji_face_58:",
+      "class": "emoji58",
+      "type": "emoji"
+    },
+    {
+      "title": "强",
+      "text": ":emoji_face_59:",
+      "class": "emoji59",
+      "type": "emoji"
+    },
+    {
+      "title": "弱",
+      "text": ":emoji_face_60:",
+      "class": "emoji60",
+      "type": "emoji"
+    },
+    {
+      "title": "拳头",
+      "text": ":emoji_face_61:",
+      "class": "emoji61",
+      "type": "emoji"
+    },
+    {
+      "title": "胜利",
+      "text": ":emoji_face_62:",
+      "class": "emoji62",
+      "type": "emoji"
+    },
+    {
+      "title": "上",
+      "text": ":emoji_face_63:",
+      "class": "emoji63",
+      "type": "emoji"
+    },
+    {
+      "title": "下",
+      "text": ":emoji_face_64:",
+      "class": "emoji64",
+      "type": "emoji"
+    },
+    {
+      "title": "右",
+      "text": ":emoji_face_65:",
+      "class": "emoji65",
+      "type": "emoji"
+    },
+    {
+      "title": "左",
+      "text": ":emoji_face_66:",
+      "class": "emoji66",
+      "type": "emoji"
+    },
+    {
+      "title": "第一",
+      "text": ":emoji_face_67:",
+      "class": "emoji67",
+      "type": "emoji"
+    },
+    {
+      "title": "吻",
+      "text": ":emoji_face_68:",
+      "class": "emoji68",
+      "type": "emoji"
+    },
+    {
+      "title": "热恋",
+      "text": ":emoji_face_69:",
+      "class": "emoji69",
+      "type": "emoji"
+    },
+    {
+      "title": "男孩",
+      "text": ":emoji_face_70:",
+      "class": "emoji70",
+      "type": "emoji"
+    },
+    {
+      "title": "女孩",
+      "text": ":emoji_face_71:",
+      "class": "emoji71",
+      "type": "emoji"
+    },
+    {
+      "title": "女士",
+      "text": ":emoji_face_72:",
+      "class": "emoji72",
+      "type": "emoji"
+    },
+    {
+      "title": "男士",
+      "text": ":emoji_face_73:",
+      "class": "emoji73",
+      "type": "emoji"
+    },
+    {
+      "title": "天使",
+      "text": ":emoji_face_74:",
+      "class": "emoji74",
+      "type": "emoji"
+    },
+    {
+      "title": "骷髅",
+      "text": ":emoji_face_75:",
+      "class": "emoji75",
+      "type": "emoji"
+    },
+    {
+      "title": "红唇",
+      "text": ":emoji_face_76:",
+      "class": "emoji76",
+      "type": "emoji"
+    },
+    {
+      "title": "太阳",
+      "text": ":emoji_face_77:",
+      "class": "emoji77",
+      "type": "emoji"
+    },
+    {
+      "title": "下雨",
+      "text": ":emoji_face_78:",
+      "class": "emoji78",
+      "type": "emoji"
+    },
+    {
+      "title": "多云",
+      "text": ":emoji_face_79:",
+      "class": "emoji79",
+      "type": "emoji"
+    },
+    {
+      "title": "雪人",
+      "text": ":emoji_face_80:",
+      "class": "emoji80",
+      "type": "emoji"
+    },
+    {
+      "title": "月亮",
+      "text": ":emoji_face_81:",
+      "class": "emoji81",
+      "type": "emoji"
+    },
+    {
+      "title": "闪电",
+      "text": ":emoji_face_82:",
+      "class": "emoji82",
+      "type": "emoji"
+    },
+    {
+      "title": "海浪",
+      "text": ":emoji_face_83:",
+      "class": "emoji83",
+      "type": "emoji"
+    },
+    {
+      "title": "猫",
+      "text": ":emoji_face_84:",
+      "class": "emoji84",
+      "type": "emoji"
+    },
+    {
+      "title": "小狗",
+      "text": ":emoji_face_85:",
+      "class": "emoji85",
+      "type": "emoji"
+    },
+    {
+      "title": "老鼠",
+      "text": ":emoji_face_86:",
+      "class": "emoji86",
+      "type": "emoji"
+    },
+    {
+      "title": "仓鼠",
+      "text": ":emoji_face_87:",
+      "class": "emoji87",
+      "type": "emoji"
+    },
+    {
+      "title": "兔子",
+      "text": ":emoji_face_88:",
+      "class": "emoji88",
+      "type": "emoji"
+    },
+    {
+      "title": "狗",
+      "text": ":emoji_face_89:",
+      "class": "emoji89",
+      "type": "emoji"
+    },
+    {
+      "title": "青蛙",
+      "text": ":emoji_face_90:",
+      "class": "emoji90",
+      "type": "emoji"
+    },
+    {
+      "title": "老虎",
+      "text": ":emoji_face_91:",
+      "class": "emoji91",
+      "type": "emoji"
+    },
+    {
+      "title": "考拉",
+      "text": ":emoji_face_92:",
+      "class": "emoji92",
+      "type": "emoji"
+    },
+    {
+      "title": "熊",
+      "text": ":emoji_face_93:",
+      "class": "emoji93",
+      "type": "emoji"
+    },
+    {
+      "title": "猪",
+      "text": ":emoji_face_94:",
+      "class": "emoji94",
+      "type": "emoji"
+    },
+    {
+      "title": "牛",
+      "text": ":emoji_face_95:",
+      "class": "emoji95",
+      "type": "emoji"
+    },
+    {
+      "title": "野猪",
+      "text": ":emoji_face_96:",
+      "class": "emoji96",
+      "type": "emoji"
+    },
+    {
+      "title": "猴子",
+      "text": ":emoji_face_97:",
+      "class": "emoji97",
+      "type": "emoji"
+    },
+    {
+      "title": "马",
+      "text": ":emoji_face_98:",
+      "class": "emoji98",
+      "type": "emoji"
+    },
+    {
+      "title": "蛇",
+      "text": ":emoji_face_99:",
+      "class": "emoji99",
+      "type": "emoji"
+    },
+    {
+      "title": "鸽子",
+      "text": ":emoji_face_100:",
+      "class": "emoji100",
+      "type": "emoji"
+    },
+    {
+      "title": "鸡",
+      "text": ":emoji_face_101:",
+      "class": "emoji101",
+      "type": "emoji"
+    },
+    {
+      "title": "企鹅",
+      "text": ":emoji_face_102:",
+      "class": "emoji102",
+      "type": "emoji"
+    },
+    {
+      "title": "毛虫",
+      "text": ":emoji_face_103:",
+      "class": "emoji103",
+      "type": "emoji"
+    },
+    {
+      "title": "章鱼",
+      "text": ":emoji_face_104:",
+      "class": "emoji104",
+      "type": "emoji"
+    },
+    {
+      "title": "鱼",
+      "text": ":emoji_face_105:",
+      "class": "emoji105",
+      "type": "emoji"
+    },
+    {
+      "title": "鲸鱼",
+      "text": ":emoji_face_106:",
+      "class": "emoji106",
+      "type": "emoji"
+    },
+    {
+      "title": "海豚",
+      "text": ":emoji_face_107:",
+      "class": "emoji107",
+      "type": "emoji"
+    },
+    {
+      "title": "玫瑰",
+      "text": ":emoji_face_108:",
+      "class": "emoji108",
+      "type": "emoji"
+    },
+    {
+      "title": "花",
+      "text": ":emoji_face_109:",
+      "class": "emoji109",
+      "type": "emoji"
+    },
+    {
+      "title": "棕榈树",
+      "text": ":emoji_face_110:",
+      "class": "emoji110",
+      "type": "emoji"
+    },
+    {
+      "title": "仙人掌",
+      "text": ":emoji_face_111:",
+      "class": "emoji111",
+      "type": "emoji"
+    },
+    {
+      "title": "礼盒",
+      "text": ":emoji_face_112:",
+      "class": "emoji112",
+      "type": "emoji"
+    },
+    {
+      "title": "南瓜灯",
+      "text": ":emoji_face_113:",
+      "class": "emoji113",
+      "type": "emoji"
+    },
+    {
+      "title": "圣诞老人",
+      "text": ":emoji_face_114:",
+      "class": "emoji114",
+      "type": "emoji"
+    },
+    {
+      "title": "圣诞树",
+      "text": ":emoji_face_115:",
+      "class": "emoji115",
+      "type": "emoji"
+    },
+    {
+      "title": "铃",
+      "text": ":emoji_face_116:",
+      "class": "emoji116",
+      "type": "emoji"
+    },
+    {
+      "title": "气球",
+      "text": ":emoji_face_117:",
+      "class": "emoji117",
+      "type": "emoji"
+    },
+    {
+      "title": "CD",
+      "text": ":emoji_face_118:",
+      "class": "emoji118",
+      "type": "emoji"
+    },
+    {
+      "title": "相机",
+      "text": ":emoji_face_119:",
+      "class": "emoji119",
+      "type": "emoji"
+    },
+    {
+      "title": "录像机",
+      "text": ":emoji_face_120:",
+      "class": "emoji120",
+      "type": "emoji"
+    },
+    {
+      "title": "电脑",
+      "text": ":emoji_face_121:",
+      "class": "emoji121",
+      "type": "emoji"
+    },
+    {
+      "title": "电视",
+      "text": ":emoji_face_122:",
+      "class": "emoji122",
+      "type": "emoji"
+    },
+    {
+      "title": "电话",
+      "text": ":emoji_face_123:",
+      "class": "emoji123",
+      "type": "emoji"
+    },
+    {
+      "title": "解锁",
+      "text": ":emoji_face_124:",
+      "class": "emoji124",
+      "type": "emoji"
+    },
+    {
+      "title": "锁",
+      "text": ":emoji_face_125:",
+      "class": "emoji125",
+      "type": "emoji"
+    },
+    {
+      "title": "钥匙",
+      "text": ":emoji_face_126:",
+      "class": "emoji126",
+      "type": "emoji"
+    },
+    {
+      "title": "成交",
+      "text": ":emoji_face_127:",
+      "class": "emoji127",
+      "type": "emoji"
+    },
+    {
+      "title": "灯泡",
+      "text": ":emoji_face_128:",
+      "class": "emoji128",
+      "type": "emoji"
+    },
+    {
+      "title": "邮箱",
+      "text": ":emoji_face_129:",
+      "class": "emoji129",
+      "type": "emoji"
+    },
+    {
+      "title": "浴缸",
+      "text": ":emoji_face_130:",
+      "class": "emoji130",
+      "type": "emoji"
+    },
+    {
+      "title": "钱",
+      "text": ":emoji_face_131:",
+      "class": "emoji131",
+      "type": "emoji"
+    },
+    {
+      "title": "炸弹",
+      "text": ":emoji_face_132:",
+      "class": "emoji132",
+      "type": "emoji"
+    },
+    {
+      "title": "手枪",
+      "text": ":emoji_face_133:",
+      "class": "emoji133",
+      "type": "emoji"
+    },
+    {
+      "title": "药丸",
+      "text": ":emoji_face_134:",
+      "class": "emoji134",
+      "type": "emoji"
+    },
+    {
+      "title": "橄榄球",
+      "text": ":emoji_face_135:",
+      "class": "emoji135",
+      "type": "emoji"
+    },
+    {
+      "title": "篮球",
+      "text": ":emoji_face_136:",
+      "class": "emoji136",
+      "type": "emoji"
+    },
+    {
+      "title": "足球",
+      "text": ":emoji_face_137:",
+      "class": "emoji137",
+      "type": "emoji"
+    },
+    {
+      "title": "棒球",
+      "text": ":emoji_face_138:",
+      "class": "emoji138",
+      "type": "emoji"
+    },
+    {
+      "title": "高尔夫",
+      "text": ":emoji_face_139:",
+      "class": "emoji139",
+      "type": "emoji"
+    },
+    {
+      "title": "奖杯",
+      "text": ":emoji_face_140:",
+      "class": "emoji140",
+      "type": "emoji"
+    },
+    {
+      "title": "入侵者",
+      "text": ":emoji_face_141:",
+      "class": "emoji141",
+      "type": "emoji"
+    },
+    {
+      "title": "唱歌",
+      "text": ":emoji_face_142:",
+      "class": "emoji142",
+      "type": "emoji"
+    },
+    {
+      "title": "吉他",
+      "text": ":emoji_face_143:",
+      "class": "emoji143",
+      "type": "emoji"
+    },
+    {
+      "title": "比基尼",
+      "text": ":emoji_face_144:",
+      "class": "emoji144",
+      "type": "emoji"
+    },
+    {
+      "title": "皇冠",
+      "text": ":emoji_face_145:",
+      "class": "emoji145",
+      "type": "emoji"
+    },
+    {
+      "title": "雨伞",
+      "text": ":emoji_face_146:",
+      "class": "emoji146",
+      "type": "emoji"
+    },
+    {
+      "title": "手提包",
+      "text": ":emoji_face_147:",
+      "class": "emoji147",
+      "type": "emoji"
+    },
+    {
+      "title": "口红",
+      "text": ":emoji_face_148:",
+      "class": "emoji148",
+      "type": "emoji"
+    },
+    {
+      "title": "戒指",
+      "text": ":emoji_face_149:",
+      "class": "emoji149",
+      "type": "emoji"
+    },
+    {
+      "title": "钻石",
+      "text": ":emoji_face_150:",
+      "class": "emoji150",
+      "type": "emoji"
+    },
+    {
+      "title": "咖啡",
+      "text": ":emoji_face_151:",
+      "class": "emoji151",
+      "type": "emoji"
+    },
+    {
+      "title": "啤酒",
+      "text": ":emoji_face_152:",
+      "class": "emoji152",
+      "type": "emoji"
+    },
+    {
+      "title": "干杯",
+      "text": ":emoji_face_153:",
+      "class": "emoji153",
+      "type": "emoji"
+    },
+    {
+      "title": "鸡尾酒",
+      "text": ":emoji_face_154:",
+      "class": "emoji154",
+      "type": "emoji"
+    },
+    {
+      "title": "汉堡",
+      "text": ":emoji_face_155:",
+      "class": "emoji155",
+      "type": "emoji"
+    },
+    {
+      "title": "薯条",
+      "text": ":emoji_face_156:",
+      "class": "emoji156",
+      "type": "emoji"
+    },
+    {
+      "title": "意面",
+      "text": ":emoji_face_157:",
+      "class": "emoji157",
+      "type": "emoji"
+    },
+    {
+      "title": "寿司",
+      "text": ":emoji_face_158:",
+      "class": "emoji158",
+      "type": "emoji"
+    },
+    {
+      "title": "面条",
+      "text": ":emoji_face_159:",
+      "class": "emoji159",
+      "type": "emoji"
+    },
+    {
+      "title": "煎蛋",
+      "text": ":emoji_face_160:",
+      "class": "emoji160",
+      "type": "emoji"
+    },
+    {
+      "title": "冰激凌",
+      "text": ":emoji_face_161:",
+      "class": "emoji161",
+      "type": "emoji"
+    },
+    {
+      "title": "蛋糕",
+      "text": ":emoji_face_162:",
+      "class": "emoji162",
+      "type": "emoji"
+    },
+    {
+      "title": "苹果",
+      "text": ":emoji_face_163:",
+      "class": "emoji163",
+      "type": "emoji"
+    },
+    {
+      "title": "飞机",
+      "text": ":emoji_face_164:",
+      "class": "emoji164",
+      "type": "emoji"
+    },
+    {
+      "title": "火箭",
+      "text": ":emoji_face_165:",
+      "class": "emoji165",
+      "type": "emoji"
+    },
+    {
+      "title": "自行车",
+      "text": ":emoji_face_166:",
+      "class": "emoji166",
+      "type": "emoji"
+    },
+    {
+      "title": "高铁",
+      "text": ":emoji_face_167:",
+      "class": "emoji167",
+      "type": "emoji"
+    },
+    {
+      "title": "警告",
+      "text": ":emoji_face_168:",
+      "class": "emoji168",
+      "type": "emoji"
+    },
+    {
+      "title": "旗",
+      "text": ":emoji_face_169:",
+      "class": "emoji169",
+      "type": "emoji"
+    },
+    {
+      "title": "男人",
+      "text": ":emoji_face_170:",
+      "class": "emoji170",
+      "type": "emoji"
+    },
+    {
+      "title": "女人",
+      "text": ":emoji_face_171:",
+      "class": "emoji171",
+      "type": "emoji"
+    },
+    {
+      "title": "O",
+      "text": ":emoji_face_172:",
+      "class": "emoji172",
+      "type": "emoji"
+    },
+    {
+      "title": "X",
+      "text": ":emoji_face_173:",
+      "class": "emoji173",
+      "type": "emoji"
+    },
+    {
+      "title": "版权",
+      "text": ":emoji_face_174:",
+      "class": "emoji174",
+      "type": "emoji"
+    },
+    {
+      "title": "注册商标",
+      "text": ":emoji_face_175:",
+      "class": "emoji175",
+      "type": "emoji"
+    },
+    {
+      "title": "商标",
+      "text": ":emoji_face_176:",
+      "class": "emoji176",
+      "type": "emoji"
+    }
+  ]
+}
